@@ -1,3 +1,5 @@
+[![Python Template for IDS706](https://github.com/ammylin/IDS_706_python_temp/actions/workflows/main.yml/badge.svg)](https://github.com/ammylin/IDS_706_python_temp/actions/workflows/main.yml)
+
 # IDS 706: Python Template (Week 1)
 
 ## Project Description
